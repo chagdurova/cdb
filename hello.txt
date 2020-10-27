@@ -1,3 +1,4 @@
 printf('HELLO WORLD')
 printf('HELLO MOSCOW')
 printf('HELLO')
+printf('hello my dear friend')
