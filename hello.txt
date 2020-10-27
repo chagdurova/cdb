@@ -1,6 +1,7 @@
-printf('HELLO WORLD')
-printf('HELLO MOSCOW')
-printf('HELLO')
-printf('hello my dear friend')
-printf('hello my dear friend')
-printf ('glad to see you')
+printf('HELLO WORLD';)
+printf('HELLO MOSCOW';)
+printf('HELLO';)
+printf('hello my dear friend;')
+printf('hello my dear friend;')
+printf ('glad to see you;')
+
